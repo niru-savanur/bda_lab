@@ -1,0 +1,1 @@
+Mean Max Temperature
